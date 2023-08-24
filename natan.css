@@ -11,3 +11,12 @@ em {
 strong { 
     font-size: large;
 }
+.intro {
+    background-color: brown;
+}
+.desen {
+    background-color: brown;
+}
+.desen {
+    font-style: oblique;
+}
