@@ -1,28 +1,42 @@
 h1 {
-    background-color: aqua  ;
+    background-color: lightslategray  ;
     text-align:center;
 }
 body {
-    background-color: aqua;
+    background-color: lightslategray;
+    color: black;
 }
-em {
-    font-size: large;
-}
-strong { 
-    font-size: large;
-}
-.intro {
-    background-color: brown;
-}
-.desen {
-    background-color: brown;
-}
-.desen {
+h3 { 
+    font-size: x-large;
     font-style: oblique;
+    
 }
+.v2 {
+    text-align: center;
+}
+.volante {
+    width: 400px;
+}
+
+
 .lista {
     display: inline-block;
+    padding: 5%;
+    margin-right: 18%
 }
-div{
+.marcha {
+    width: 400px;
+}
+p {
+    font-size: x-large;
+}
+.divlist {
+    text-align: left;
+}
+
+.divlist2 {
     text-align: center;
+}
+.divlist3 {
+    text-align: right;
 }
