@@ -19,10 +19,10 @@ h3 {
 }
 
 
-.lista {
+.lista{
     display: inline-block;
-    padding: 5%;
-    margin-right: 18%
+    padding: 3%;
+    margin-right: 20%
 }
 .marcha {
     width: 400px;
@@ -39,4 +39,7 @@ p {
 }
 .divlist3 {
     text-align: right;
+}
+.imglist2 {
+    text-align: center;
 }
