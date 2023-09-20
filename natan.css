@@ -1,10 +1,11 @@
 h1 {
-    background-color: lightslategray  ;
+      
     text-align:center;
 }
 body {
     background-color: lightslategray;
     color: black;
+    background: linear-gradient(gray, black);
 }
 h3 { 
     font-size: x-large;
@@ -32,6 +33,7 @@ p {
 }
 .divlist {
     text-align: left;
+    padding: 5%
 }
 
 .divlist2 {
@@ -42,4 +44,10 @@ p {
 }
 .imglist2 {
     text-align: center;
+}
+nav a{
+    text-transform: uppercase;
+    color: lightblue;
+    text-decoration: none;
+    font-weight: 500;
 }
