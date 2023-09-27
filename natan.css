@@ -5,7 +5,7 @@ h1 {
 body {
     background-color: lightslategray;
     color: black;
-    background: linear-gradient(gray, black);
+    background: linear-gradient(gray, lightslategray, white );
 }
 h3 { 
     font-size: x-large;
@@ -31,20 +31,7 @@ h3 {
 p {
     font-size: x-large;
 }
-.divlist {
-    text-align: left;
-    padding: 5%
-}
 
-.divlist2 {
-    text-align: center;
-}
-.divlist3 {
-    text-align: right;
-}
-.imglist2 {
-    text-align: center;
-}
 nav a{
     text-transform: uppercase;
     color: lightblue;
