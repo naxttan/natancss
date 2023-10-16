@@ -1,4 +1,9 @@
 body {
     background-color: gray;
 }
-    
+.lista li {
+    display: inline-block;
+    vertical-align: top;
+    margin: o 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
