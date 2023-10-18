@@ -7,3 +7,9 @@ body {
     margin: o 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
+}
+.listaa {
+    border-color: aqua;
+    border-width: 20px;
+    border-style: inset;
+}
