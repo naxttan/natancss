@@ -1,5 +1,7 @@
 body {
-    background-color: gray;
+    background-color: lightslategray;
+    color: black;
+    background: linear-gradient(gray, lightslategray, white );
 }
 .lista li {
     display: inline-block;
@@ -12,4 +14,10 @@ body {
     border-color: aqua;
     border-width: 20px;
     border-style: inset;
+}
+nav a{
+    text-transform: uppercase;
+    color: lightblue;
+    text-decoration: none;
+    font-weight: 500;
 }
